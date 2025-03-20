@@ -1,4 +1,4 @@
-# Basic Slither Game
+# Slither.io Game
 
 <p **align**="center"> <img src="./images/gif/demo.gif" alt="bg" /> </p>
 
